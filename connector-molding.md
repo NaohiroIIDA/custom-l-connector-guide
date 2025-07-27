@@ -9,7 +9,7 @@
 | 品名 | 備考 |
 |------|------|
 | アルミ金型（上下2ピース） | JLCCNCで発注 |
-| 加工したいコネクタ | 例：USB、JST、2.54mmピンヘッダなど |
+| 加工したいコネクタ | 例：XT30(2+2),USBなど |
 | ホットボンドガン（スティック） | 高温タイプ推奨 |
 | ネジ・クランプ等 | 金型固定用 |
 | 耐熱手袋 | 安全対策に |
@@ -27,17 +27,18 @@
 - コネクタの端子やケーブルを曲げ、L字の形に合わせて金型内に設置する
 - 端子がずれないように注意し、必要なら仮止めテープなどを使用する
 
-![insert-connector](images/insert-connector.jpg)
+<img src="images/s-IMG_9325.jpg" width="40%">
 
 ### 3. 金型の固定
 - 上下の金型を合わせ、ネジやクランプでしっかりと固定する
 
-![clamp-mold](images/clamp-mold.jpg)
+<img src="images/s-IMG_9328.jpg" width="40%">
 
 ### 4. ホットボンド注入
 - ホットボンドを加熱して十分に溶かす
 - 金型の注入口から慎重にホットボンドを注入する  
   ※スティックが固いうちは圧力がかかりにくいので、ゆっくり押し出す
+<img src="images/s-IMG_9314.jpg" width="40%">
 
 ### 5. 冷却
 - 2～3分放置して、完全に冷めるまで待つ  
@@ -46,16 +47,20 @@
 ### 6. 金型の取り外し
 - 固定を外し、金型を慎重に分離する
 - 成形されたL字コネクタを取り出す
+<img src="images/s-IMG_9277.jpg" width="40%">
 
 ### 7. バリ取り・仕上げ
 - ニッパーやカッターでバリを除去
 - 必要に応じてヤスリで軽く整える
+<img src="images/s-IMG_9277.jpg" width="40%">
 
 ---
 
 ## ✅ 完成例
 
-![finished-connector](images/finished-connector.jpg)
+<img src="images/s-IMG_9281.jpg" width="40%">
+<img src="images/s-IMG_9282.jpg" width="40%">
+<img src="images/s-IMG_9285.jpg" width="40%">
 
 ---
 
