@@ -36,7 +36,7 @@
    -出荷の際の申告名称らしい。『Irregular shape Category -> Other -> "mold"』と記入しています。
 7. 画面右側にTotal Priceが表示されているので確認する。Build timeを選ぶ。今回はStandardを選択。
    <img src="images/JLCCNC_Order.png" width="25%">
-9. 見積価格に問題なければそのまま「**Submit Order**」をクリックし、支払いを完了
+10. 見積価格に問題なければそのまま「**Submit Order**」をクリックし、支払いを完了
 
 ---
 
