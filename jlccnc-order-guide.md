@@ -40,8 +40,7 @@
 ---
 
 ## 📦 到着時の様子
-
-![mold-photo](images/mold-arrived.jpg)
+<img src="images/s-IMG_9273.jpg" width="25%">
 
 しっかりとアルミで加工された金型が、緩衝材と一緒に丁寧に梱包されて届きます。
 
@@ -56,7 +55,7 @@
 
 ## 🔗 参考資料
 
-- 発注に使用したデータ：[mold-design/l_shape_mold_v1.pdf](mold-design/l_shape_mold_v1.pdf)
+- 発注に使用したデータ：[ホットボンド金型 v7.step](ホットボンド金型 v7.step)
 - JLCCNC公式サイト：[https://jlccnc.com](https://jlccnc.com)
 
 ---
