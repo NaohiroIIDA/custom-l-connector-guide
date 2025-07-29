@@ -26,7 +26,7 @@
 
 1. **[JLCCNC公式サイト](https://jlccnc.com) にアクセス**
 2. トップページの「**CNC Machining**」の方の　**Quote Now** ボタンをクリック  
-   ![upload-drawing](images/jlccnc-upload.png)
+   <img src="images/quoteNow.png" width="25%">
 3. 加工データ（例：`l_shape_mold_v1.pdf`）をUpload 3D modelsへアップロード
 4. アップロード後、「**材料（Material,Type of Aluminum）**」「**表面処理（Surface Finish）**」などを選択  
    - Material：Aluminum 6061
@@ -35,7 +35,8 @@
 6. 商品説明　(Product Desc) を選択
    -出荷の際の申告名称らしい。『Irregular shape Category -> Other -> "mold"』と記入しています。
 7. 画面右側にTotal Priceが表示されているので確認する。Build timeを選ぶ。今回はStandardを選択。
-8. 見積価格に問題なければそのまま「**Submit Order**」をクリックし、支払いを完了
+   <img src="images/JLCCNC_Order.png" width="25%">
+9. 見積価格に問題なければそのまま「**Submit Order**」をクリックし、支払いを完了
 
 ---
 
