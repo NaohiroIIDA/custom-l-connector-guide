@@ -34,8 +34,8 @@
 5. 加工数量（例：1個）を指定
 6. 商品説明　(Product Desc) を選択
    -出荷の際の申告名称らしい。『Irregular shape Category -> Other -> "mold"』と記入しています。
-7. 画面右側にTotal Priceが表示されているので確認する。Build timeを選ぶ。今回はStandardを選択。
-   <img src="images/JLCCNC_Order.png" width="25%">
+7. 画面右側にTotal Priceが表示されているので確認する。Build timeを選ぶ。今回はStandardを選択。 
+   <img src="images/quoteNow.png" width="25%">
 10. 見積価格に問題なければそのまま「**Submit Order**」をクリックし、支払いを完了
 
 ---
@@ -56,7 +56,7 @@
 
 ## 🔗 参考資料
 
-- 発注に使用したデータ：[ホットボンド金型 v7.step](ホットボンド金型 v7.step)
+- 発注に使用したデータ：![ホットボンド金型 v7.step](ホットボンド金型 v7.step)
 - JLCCNC公式サイト：[https://jlccnc.com](https://jlccnc.com)
 
 ---
@@ -67,4 +67,4 @@
 A: 基本は英語対応ですが、Google翻訳などを使えば問題なく進行可能です。
 
 **Q: 他の金型も頼めますか？**  
-A: 任意形状のCNC加工が可能です。L字以外の成形金型も発注できます。
+A: あくまで簡易的なものだと思います。鋭角な角や狭い空間などは加工できないとしてリジェクトされる場合があります。お知らせを見てデータを修正しましょう。
