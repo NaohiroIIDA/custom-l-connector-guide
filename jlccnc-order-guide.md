@@ -25,15 +25,17 @@
 ## 🛒 発注手順
 
 1. **[JLCCNC公式サイト](https://jlccnc.com) にアクセス**
-2. トップページの「**Upload drawing**」ボタンをクリック  
+2. トップページの「**CNC Machining**」の方の　**Quote Now** ボタンをクリック  
    ![upload-drawing](images/jlccnc-upload.png)
-3. 加工データ（例：`l_shape_mold_v1.pdf`）をアップロード
-4. アップロード後、「**材料（Material）**」「**表面処理（Surface Finish）**」などを選択  
+3. 加工データ（例：`l_shape_mold_v1.pdf`）をUpload 3D modelsへアップロード
+4. アップロード後、「**材料（Material,Type of Aluminum）**」「**表面処理（Surface Finish）**」などを選択  
    - Material：Aluminum 6061
-   - Surface Finish：As machined（または特になし）
+   - Surface :No (Finish：As machined) 今回、特に表面処理などは行いませんでした。
 5. 加工数量（例：1個）を指定
-6. 「**Submit for review**」をクリックし、見積もりを待ちます（数時間以内にメールが届くことが多いです）
-7. 見積価格に問題なければそのまま「**Order**」をクリックし、支払いを完了
+6. 商品説明　(Product Desc) を選択
+   -出荷の際の申告名称らしい。『Irregular shape Category -> Other -> "mold"』と記入しています。
+7. 画面右側にTotal Priceが表示されているので確認する。Build timeを選ぶ。今回はStandardを選択。
+8. 見積価格に問題なければそのまま「**Submit Order**」をクリックし、支払いを完了
 
 ---
 
@@ -47,10 +49,8 @@
 
 ## 💡 注意点・コツ
 
-- データはSTEPまたはPDF+寸法が最もスムーズです
+- データはSTEPが最もスムーズです
 - 小物金型の場合、送料込みでも\$50以内に収まることが多いです
-- 加工の精度を求める場合は「金型として使う」ことを明記してください
-- 「2ピース金型」と明確に伝えること
 
 ---
 
